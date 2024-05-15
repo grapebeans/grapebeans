@@ -18,6 +18,6 @@ I'm 19Y'old MERN developer and a programming enthusiast
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=bash,bootstrap,bun,c,cpp,css,discord,express,git,github,gmail,html,js,linux,mongodb,mysql,neovim,netlify,nextjs,nodejs,notion,npm,postgres,postman,powershell,py,react,replit,solidity,tailwind,ts,ubuntu,vim,vscode,vue,windows," />
   </a>
 </p>
