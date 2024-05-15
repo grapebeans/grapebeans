@@ -1,7 +1,7 @@
 ### Happy Day! 👋
 I'm 19Y'old MERN developer and a programming enthusiast
 
-**Languages, Frameworks, Tools, Cloud**<br>
+<!-- **Languages, Frameworks, Tools, Cloud**<br>
 [![My languages](https://skillicons.dev/icons?i=js,ts,c,cpp,java,bash,py)](https://skillicons.dev)<br>
 
 
@@ -14,4 +14,10 @@ I'm 19Y'old MERN developer and a programming enthusiast
 [![My Tools](https://skillicons.dev/icons?i=neovim,git,docker,linux,nginx)](https://skillicons.dev)<br>
 
 
-[![My Cloud](https://skillicons.dev/icons?i=aws,gcp,cloudflare,netlify,vercel)](https://skillicons.dev)<br>
+[![My Cloud](https://skillicons.dev/icons?i=aws,gcp,cloudflare,netlify,vercel)](https://skillicons.dev)<br> -->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
