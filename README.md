@@ -1,5 +1,5 @@
 ### Happy Day! 👋
-I'm 19Y'old MERN developer and a programming enthusiast
+I'm a 19Y'old MERN developer.
 
 <!-- **Languages, Frameworks, Tools, Cloud**<br>
 [![My languages](https://skillicons.dev/icons?i=js,ts,c,cpp,java,bash,py)](https://skillicons.dev)<br>
@@ -18,6 +18,6 @@ I'm 19Y'old MERN developer and a programming enthusiast
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,bootstrap,bun,c,cpp,css,discord,express,git,github,gmail,html,js,linux,mongodb,mysql,neovim,netlify,nextjs,nodejs,notion,npm,postgres,postman,powershell,py,react,replit,solidity,tailwind,ts,ubuntu,vim,vscode,vue,windows&perline=6" />
+    <img src="https://skillicons.dev/icons?i=bash,bootstrap,bun,c,cpp,css,discord,express,git,github,html,js,linux,mongodb,mysql,neovim,netlify,nextjs,nodejs,notion,npm,postgres,postman,powershell,py,react,replit,solidity,tailwind,ts,ubuntu,vim,vue&perline=10" />
   </a>
 </p>
